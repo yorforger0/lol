@@ -1,1 +1,1 @@
-{"comp_whatsapp":"8696661919","compUrl":"https://github.com/","downloadUrl":"https://github.com/","appVersion":"2","smsUrl":"","smsUsername":"","smsPass":"","smsSender":"","upi":"6940@hdfcbank"}
+{"comp_whatsapp":"9746135488","compUrl":"https://github.com/","downloadUrl":"https://github.com/","appVersion":"2","smsUrl":"","smsUsername":"","smsPass":"","smsSender":"","upi":"6940@hdfcbank"}
